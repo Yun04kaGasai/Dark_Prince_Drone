@@ -3,10 +3,10 @@
 # КОМПОНЕНТЫ
 - ESP32
 >Фото снизу\
-![Alt text](Assets/2.jpg)
+![Alt text](Assets/2.jpg?raw=true)
 - Драйвер двигателя TB6612FNG
 >Фото снизу\
-![Alt text](Assets/1.png)
+![Alt text](Assets/1.png?raw=true)
 - Двигатели 614 (обычно сразу идут с лопастями)
 - Модуль GY-87
 - Плата зарядки (Можно взять любую, но см. ниже)
@@ -14,4 +14,4 @@
 - Аккумулятор 602040 на 420-450 мАч (3.7 В)
 - Регулятор AMS1117-3.3
 >Фото снизу\
-![Alt text](Assets/3.jpg)
+![Alt text](Assets/3.jpg?raw=true)
