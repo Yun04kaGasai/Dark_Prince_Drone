@@ -12,7 +12,7 @@
 ![Alt text](Assets/5.jpg?raw=true)
 - Модуль GY-87
 >Фото снизу\
-![Alt text](Assets/4.lpeg?raw=true)
+![Alt text](Assets/4.jpeg?raw=true)
 - Плата зарядки (Можно взять любую, но см. ниже)
   - Рекомендую взять TP4056
 - Аккумулятор 602040 на 420-450 мАч (3.7 В)
