@@ -19,6 +19,8 @@
   >Фото снизу\
   ![Alt text](Assets/6.jpg?raw=true)
 - Аккумулятор 602040 на 420-450 мАч (3.7 В)
+>Фото снизу\
+![Alt text](Assets/7.jpg?raw=true)
 - Регулятор AMS1117-3.3
 >Фото снизу\
 ![Alt text](Assets/3.jpg?raw=true)
