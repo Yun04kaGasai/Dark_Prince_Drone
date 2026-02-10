@@ -5,7 +5,7 @@
 - ESP32-C3-Mini
 >Фото снизу\
 ![Alt text](Assets/2.jpg?raw=true)
-- Драйвер двигателя TB6612FNG
+- Транзистор IRLB8721
 >Фото снизу\
 ![Alt text](Assets/1.png?raw=true)
 - Двигатели 614 (обычно сразу идут с лопастями)
