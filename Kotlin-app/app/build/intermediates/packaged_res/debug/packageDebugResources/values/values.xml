@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#111111</color>
+    <color name="bg">#ECECEC</color>
+    <color name="neo_highlight">#FFFFFF</color>
+    <color name="neo_shadow">#BEBEBE</color>
+    <color name="neo_shadow_soft">#D5D5D5</color>
+    <color name="neo_stroke">#D0D0D0</color>
+    <color name="neo_surface">#ECECEC</color>
+    <color name="primary">#101010</color>
+    <color name="primaryVariant">#000000</color>
+    <color name="text">#121212</color>
+    <string name="app_name">Drone BLE Control</string>
+    <string name="arm">ARM</string>
+    <string name="arm_not_sent">Команда ARM не отправлена</string>
+    <string name="bluetooth_off">Bluetooth не включен</string>
+    <string name="connect">Подключить</string>
+    <string name="connected_ok">Подключение установлено</string>
+    <string name="controls_tab">Управление</string>
+    <string name="device_name_hint">Имя BLE устройства (например, DarkPrinceDrone)</string>
+    <string name="devices_tab">Аппараты</string>
+    <string name="disarm">DISARM</string>
+    <string name="disarm_not_sent">Команда DISARM не отправлена</string>
+    <string name="disconnect">Отключить</string>
+    <string name="down">Вниз</string>
+    <string name="hint_filter_optional">Фильтр по имени (необязательно)</string>
+    <string name="motor_not_sent">Не отправлена скорость для pin %1$d</string>
+    <string name="motor_pin_value">Motor pin %1$d: %2$d</string>
+    <string name="no_devices_found">Список пуст. Нажмите Сканировать.</string>
+    <string name="permissions_required">Для BLE нужны разрешения</string>
+    <string name="scan">Сканировать</string>
+    <string name="scan_started">Сканирование запущено</string>
+    <string name="section_controls">Управление дроном</string>
+    <string name="section_devices">Найденные аппараты</string>
+    <string name="select_device_first">Сначала выберите аппарат из списка</string>
+    <string name="selected_device">Выбрано: %1$s</string>
+    <string name="selected_device_none">Выбрано: нет</string>
+    <string name="status_connected">Статус: BLE подключено</string>
+    <string name="status_disconnected">Статус: отключено</string>
+    <string name="status_error">Ошибка: %1$s</string>
+    <string name="status_idle">Статус: не подключено</string>
+    <string name="status_text">Статус: %1$s</string>
+    <string name="stop">STOP</string>
+    <string name="stop_not_sent">Команда STOP не отправлена</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_mode">Тема: %1$s</string>
+    <string name="theme_system">Системная</string>
+    <string name="throttle_value">Тяга: %1$d</string>
+    <string name="up">Вверх</string>
+    <style name="Theme.DroneBleControl" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnPrimary">@color/bg</item>
+        <item name="colorSurface">@color/neo_surface</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primaryVariant</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <style name="Widget.Drone.Neomorph.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/bg_neomorph_button_selector</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="rippleColor">@android:color/transparent</item>
+        <item name="android:shadowColor">@android:color/transparent</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:minHeight">44dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="elevation">0dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>

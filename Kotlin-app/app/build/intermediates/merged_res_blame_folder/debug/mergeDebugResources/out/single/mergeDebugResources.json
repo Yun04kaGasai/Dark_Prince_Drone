@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-debug-31:\\drawable_bg_neomorph_panel.xml.flat",
+        "source": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-main-33:\\drawable\\bg_neomorph_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-debug-31:\\drawable_bg_neomorph_card.xml.flat",
+        "source": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-main-33:\\drawable\\bg_neomorph_card.xml"
+    },
+    {
+        "merged": "com.darkprince.dronecontrol.app-debug-31:/drawable_bg_neomorph_button_pressed.xml.flat",
+        "source": "com.darkprince.dronecontrol.app-main-33:/drawable/bg_neomorph_button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-debug-31:\\drawable_bg_neomorph_button.xml.flat",
+        "source": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-main-33:\\drawable\\bg_neomorph_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.darkprince.dronecontrol.app-debug-31:/drawable_bg_neomorph_button_selector.xml.flat",
+        "source": "com.darkprince.dronecontrol.app-main-33:/drawable/bg_neomorph_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-debug-31:\\drawable_bg_neomorph_input.xml.flat",
+        "source": "C:\\Users\\Kare0\\.gradle\\daemon\\9.0.0\\com.darkprince.dronecontrol.app-main-33:\\drawable\\bg_neomorph_input.xml"
+    }
+]

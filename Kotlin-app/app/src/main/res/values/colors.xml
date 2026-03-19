@@ -1,0 +1,12 @@
+<resources>
+    <color name="bg">#ECECEC</color>
+    <color name="primary">#101010</color>
+    <color name="primaryVariant">#000000</color>
+    <color name="accent">#111111</color>
+    <color name="text">#121212</color>
+    <color name="neo_surface">#ECECEC</color>
+    <color name="neo_highlight">#FFFFFF</color>
+    <color name="neo_shadow">#BEBEBE</color>
+    <color name="neo_shadow_soft">#D5D5D5</color>
+    <color name="neo_stroke">#D0D0D0</color>
+</resources>
